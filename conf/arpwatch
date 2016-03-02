@@ -1,0 +1,6 @@
+# options for arpwatch
+# no promisc. (for now); no mail
+ARGS="-p -Q"
+
+# drop priv
+RUNAS="arpwatch"
